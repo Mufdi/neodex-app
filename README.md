@@ -1,8 +1,9 @@
 # NEODEX for Android
 
-Free companion app for [PokeMMO](https://pokemmo.com): Pokédex, calculators, breeding planner,
-zone encounters and EV training. The same tools as [neodex.tools](https://neodex.tools), on your
-phone and offline.
+Free companion app for [PokeMMO](https://pokemmo.com): analysis, calculators, breeding planner,
+zone encounters and more. The same tools as [neodex.tools](https://neodex.tools), on your phone.
+The game data ships with the app; **100% offline mode** in the menu also downloads the images and
+cries, so the app works without a network.
 
 This repository only hosts the app's releases. NEODEX is a fan project, not affiliated with
 PokeMMO, Nintendo, Game Freak or The Pokémon Company.
