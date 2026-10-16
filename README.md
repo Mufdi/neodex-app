@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/neodex-lockup.svg" alt="NEODEX" width="360">
+</p>
+
 # NEODEX for Android
 
 Free companion app for [PokeMMO](https://pokemmo.com): analysis, calculators, breeding planner,
