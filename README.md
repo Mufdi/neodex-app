@@ -20,7 +20,7 @@ PokeMMO, Nintendo, Game Freak or The Pokémon Company.
 - **Itemdex**: every item, what it does and who holds it.
 - **Movedex**: every move with power, accuracy, PP and type, and who learns it by each method.
 - **Abilitydex**: every ability and the species that have it, regular and hidden.
-- **Advanced search**: combine stat, type, ability, move and tier filters at once.
+- **Advanced search**: combine filters across combat (types, abilities, moves by learn method and kind, role, tier, held items), stats (ranges), biology (egg groups, gender, alpha) and location (region, zone, encounter type, rarity, season, time, hordes).
 - **Compare**: up to 10 Pokémon side by side.
 
 **Encounters**
@@ -36,7 +36,7 @@ PokeMMO, Nintendo, Game Freak or The Pokémon Company.
 - **Egg moves**: the breeding chain that brings a move to the species you want.
 
 **Utilities**
-- **EV training**: vitamins and Wings for your spread, hordes left and where to fight them.
+- **EV training**: plan a spread with vitamins, wings, reducing berries and the Macho Brace, hordes left and where to fight them.
 - **Rock Smash**: log what each rock gives you and compare your rates by region and route.
 
 **Team Builder**
@@ -48,7 +48,6 @@ PokeMMO, Nintendo, Game Freak or The Pokémon Company.
 **Only in the app**
 - **100% offline mode**: downloads the images and cries so the app works without a network.
 - **Floating window**: NEODEX as a bubble over the game, to look things up without leaving it.
-- **Reminders**: alerts that arrive as a push notification at the time you choose.
 - Use it without an account; sign in to keep your teams and breeding projects across devices.
 
 ## Download
