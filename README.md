@@ -50,15 +50,20 @@ PokeMMO, Nintendo, Game Freak or The Pokémon Company.
 **Breeding**
 - Breeding projects ledger with cost calculator and your own price catalog.
 
+**Guides**
+- Event guides, raid routes with a slot per player and role, farming and capture guides, and step-by-step runs with counters.
+- Write and keep your own guides in *My guides*.
+
 **Only in the app**
+- **Floating bubble**: turn the app into a bubble over the game and open a compact panel with live alphas and swarms, the menu, zones, guides and runs, without leaving PokeMMO. **Open PokeMMO** in the menu launches the game with the bubble ready.
+- **Notifications**: push alerts for alphas and swarms, filtered by region, plus your own reminders.
+- **Self-update**: the app checks this repository's releases and offers each new version, verified against `SHA256SUMS`.
 - **100% offline mode**: downloads the images and cries so the app works without a network.
-- **Floating window**: NEODEX as a bubble over the game, to look things up without leaving it.
 - Use it without an account; sign in to keep your teams and breeding projects across devices.
 
 ## Download
 
-Get the latest APK from [Releases](../../releases/latest). Each release has one APK per processor
-type plus a universal one, and lists every file's SHA-256 so you can check the download.
+Get the latest APK from [Releases](../../releases/latest), or directly: [neodex-arm64-v8a.apk](https://github.com/Mufdi/neodex-app/releases/latest/download/neodex-arm64-v8a.apk). Each release has one APK per processor type plus a universal one, each also published without the version in its name so the direct links always point to the newest one, and lists every file's SHA-256 in `SHA256SUMS`.
 
 | File | For |
 |---|---|
@@ -70,7 +75,8 @@ type plus a universal one, and lists every file's SHA-256 so you can check the d
 1. Download the APK on your Android phone (Android 7.0 or later).
 2. Open it. Android asks to allow installs from that source (your browser or file manager) the
    first time.
-3. Install. Later versions install over the previous one and keep your data.
+3. If Google Play Protect shows "App scan recommended", it is because the app is not on the Play Store yet: tap **More details**, then **Install without scanning**.
+4. Install. Later versions install over the previous one and keep your data.
 
 ## What it does not do
 
@@ -84,3 +90,5 @@ public information in the PokeMMO forum, and from data curated by hand.
 ## Support
 
 NEODEX is free and has nothing to buy. If you want to support it: [Ko-fi](https://ko-fi.com/L5L826RYEB).
+
+Feedback and updates: [the NEODEX for Android thread](https://forums.pokemmo.com/index.php?/topic/201868-tools-neodex-for-android-analysis-calculators-team-builder-and-more-in-a-bubble-over-the-game/) on the PokeMMO forum.
