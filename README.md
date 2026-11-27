@@ -51,13 +51,13 @@ PokeMMO, Nintendo, Game Freak or The Pokémon Company.
 - Breeding projects ledger with cost calculator and your own price catalog.
 
 **Guides**
-- Event guides, raid routes with a slot per player and role, farming and capture guides, and step-by-step runs with counters.
-- Write and keep your own guides in *My guides*.
+- Event guides, raid routes with a slot per player and role, farming guides, and step-by-step runs with counters.
+- Write and keep your own guides in *My guides*, and accept, keep or fix the changes proposed to them.
 
 **Only in the app**
 - **Floating bubble**: turn the app into a bubble over the game and open a compact panel with live alphas and swarms, the menu, zones, guides and runs, without leaving PokeMMO. **Open PokeMMO** in the menu launches the game with the bubble ready.
-- **Notifications**: push alerts for alphas and swarms, filtered by region, plus your own reminders.
-- **Self-update**: the app checks this repository's releases and offers each new version, verified against `SHA256SUMS`.
+- **Notifications**: push alerts for alphas and swarms, filtered by region, notices about your guides, plus your own reminders.
+- **Self-update**: the app checks this repository's releases and offers each new version, verified against `SHA256SUMS`; *Check for updates* in the menu looks right away.
 - **100% offline mode**: downloads the images and cries so the app works without a network.
 - Use it without an account; sign in to keep your teams and breeding projects across devices.
 
